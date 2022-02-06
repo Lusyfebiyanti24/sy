@@ -23,7 +23,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(https://github.com/Lusyfebiyanti24/sy/blob/main/08f640e6-0e79-48c8-83e9-f9c880475a23.jpg?raw=true);
   background-size: cover;
   color: white;
   text-align: center;
@@ -59,8 +59,8 @@ a {
   margin-right: 10px;
 }
 
-.twitter {
-  background-color: #55acee;
+.whatsapp {
+  background-color: #228b22;
 }
 
 .btn {
@@ -140,6 +140,7 @@ header {
 
 .heading h2 {
   font-weight: normal;
+  font-size: 30px;
 }
 
 .lesson {
@@ -162,7 +163,7 @@ header {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
-  font-size: 15px;
+  font-size: 30px;
   color: #b3aeb5;
 }
 
